@@ -99,7 +99,7 @@ https://templatemo.com/tm-536-dream-pulse
             <div
               class="parallax-window"
               data-parallax="scroll"
-              data-image-src="Minimalist.jpg">
+              data-image-src="img/Minimalist.jpg">
               <div class="tm-section-wrap">
                 <section id="intro" class="tm-section">
                     <div class="tm-bg-white-transparent tm-intro">
@@ -157,7 +157,7 @@ https://templatemo.com/tm-536-dream-pulse
                           <div class="tm-gallery">
                             <div class="tm-gallery-item">
                               <figure class="effect-bubba">
-                                <img src="" alt="Our Work Image" class="img-fluid">
+                                <img src="#" alt="Our Work Image" class="img-fluid">
                                 <figcaption>
                                   <h2>Fresh <span>Cottagecore</span></h2>
                                   <p>an aesthetic that celebrates simple living, particularly in the countryside.</p>
@@ -177,7 +177,7 @@ https://templatemo.com/tm-536-dream-pulse
                               <figure class="effect-bubba">
                                 <img src="vintage.jpg" alt="Our Work Image" class="img-fluid">
                                 <figcaption>
-                                  <a href="yeary.jpg">View more</a>
+                                  <a href="/yeary.jpg">View more</a>
                                 </figcaption>
                               </figure>
                             </div>
@@ -266,7 +266,7 @@ https://templatemo.com/tm-536-dream-pulse
                         </div>
                         <div class="col-xl-3 col-lg-6 col-md-4 col-sm-6 tm-img-wrap">
                           <a href="https://instagram.com">
-                            <img src="mrp.jpg" alt="Client Image" class="img-fluid tm-client-img" />
+                            <img src="client-4.png" alt="Client Image" class="img-fluid tm-client-img" />
                           </a>
                         </div>
                         <div class="col-xl-3 col-lg-6 col-md-4 col-sm-6 tm-img-wrap">
